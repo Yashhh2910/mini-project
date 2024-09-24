@@ -1,0 +1,7 @@
+PyPDF2
+gTTS
+pygame
+Pillow
+pytesseract
+PySimpleGUI
+fitz  
